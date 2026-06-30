@@ -1,0 +1,26 @@
+h1{
+    /*EESTILOS DE CONSTRUCCION*/
+    background: #0ed2e8;
+    border: 5px solid#dcdcdc;
+    width: 60px;
+    height: 40px;
+    /*ESTILOS DE ALINEACION*/
+    margin: 0px auto;
+    padding: 5px;
+    /*ESTILOS DE CONTENIDO*/
+    color: #dcdcdc;
+    text-align: center;
+}
+.contend{
+    /*EESTILOS DE CONSTRUCCION*/
+    background: #0ed2e8;
+    border: 5px solid#dcdcdc;
+    width: 60px;
+    height: 40px;
+    /*ESTILOS DE ALINEACION*/
+    margin: 0px auto;
+    padding: 5px;
+    /*ESTILOS DE CONTENIDO*/
+    color: #dcdcdc;
+    text-align: center;
+}
